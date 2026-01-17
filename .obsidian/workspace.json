@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "4db5440581648eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "3abeadc70bea9ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921aa7e630d2bf5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e7524a36163abcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Needs_Action/EMAIL___Halloween_shoppers_are_alrea_19899b48.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EMAIL___Halloween_shoppers_are_alrea_19899b48"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cd23f3904080b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6052c21fe3c081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a00dc9d3e8397cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eec2eedfebd1e8c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e57c4b357b011b31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ed8156ae97b5082",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d60bd7232ed6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd09f3b398ce6ce3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "37069d7ddd08e0b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "771a67168edda0bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d75b306586a5b63f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6b99a96980864d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e7524a36163abcdb",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Needs_Action/EMAIL_Verify_your_n8n_account_199f23a7.md",
+    "Needs_Action/TASK_invoice.txt.md",
+    "Inbox/Tasks.md",
+    "Skills/process_with_bonsai.md",
+    "Needs_Action/EMAIL_We_have_updated_our_Terms_of_S_19b7ccbf.md",
+    "Needs_Action/EMAIL_222507___Your_Spotify_login_co_19b6ebc3.md",
+    "Company_Handbook.md.md",
+    "watchers/gmail_watcher.py",
+    "watchers/gmail_credentials.json.json",
+    "tmpclaude-0819-cwd",
+    "Untitled.md",
+    "Untitled",
+    "tmpclaude-cf1e-cwd",
+    "Dashboard.md.md",
+    "watchers/README.md",
+    "watchers/file_watcher.py",
+    "watchers/pyproject.toml",
+    "watchers/main.py",
+    "watchers",
+    "_Built for Panaversity AI Employee Hackathon_",
+    "Welcome.md"
+  ]
+}

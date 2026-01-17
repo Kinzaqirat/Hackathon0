@@ -1,0 +1,1 @@
+"Invoice for Client A - Amount $500 - Payment urgent" 

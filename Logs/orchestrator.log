@@ -1,0 +1,163 @@
+2026-01-15 17:59:58,194 - Orchestrator - INFO - Monitoring folder: Inbox
+2026-01-15 17:59:58,201 - Orchestrator - INFO - Monitoring folder: Approved
+2026-01-15 17:59:58,201 - Orchestrator - INFO - Monitoring folder: Rejected
+2026-01-15 17:59:58,202 - Orchestrator - INFO - Monitoring folder: Done
+2026-01-15 17:59:58,205 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-15 18:02:02,305 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-15 18:02:02,305 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-15 18:02:02,306 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-15 18:02:02,307 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-15 18:02:02,318 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-15 18:05:15,900 - Orchestrator - INFO - Event in Inbox: system_test.txt
+2026-01-15 18:05:16,903 - Orchestrator - INFO - Ingesting from Inbox: system_test.txt
+2026-01-17 17:57:00,432 - GmailService - ERROR - Error refreshing token: ('invalid_scope: Bad Request', {'error': 'invalid_scope', 'error_description': 'Bad Request'})
+2026-01-17 17:57:00,439 - GmailService - WARNING - No valid credentials found. Please run refresh_gmail_token.py
+2026-01-17 17:57:00,442 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 17:57:00,444 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 17:57:00,446 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 17:57:00,448 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 17:57:00,458 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:01:50,328 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:01:50,329 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:01:50,329 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:01:50,330 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:01:50,332 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:02:12,497 - Orchestrator - INFO - Event in Inbox: test_mail.txt
+2026-01-17 18:02:13,499 - Orchestrator - INFO - Ingesting from Inbox: test_mail.txt
+2026-01-17 18:06:08,287 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:06:08,288 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:06:08,289 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:06:08,289 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:06:08,293 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:06:22,568 - Orchestrator - INFO - Event in Inbox: real_test.txt
+2026-01-17 18:06:24,569 - Orchestrator - INFO - Ingesting from Inbox: real_test.txt
+2026-01-17 18:06:24,571 - Orchestrator - WARNING - File real_test.txt is empty. Retrying in 1s...
+2026-01-17 18:06:25,573 - Orchestrator - ERROR - File real_test.txt still empty after retry. Skipping command detection.
+2026-01-17 18:09:40,976 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:09:40,976 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:09:40,977 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:09:40,978 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:09:40,982 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:09:58,617 - Orchestrator - INFO - Event in Inbox: final_fixed.txt
+2026-01-17 18:10:00,618 - Orchestrator - INFO - Ingesting from Inbox: final_fixed.txt
+2026-01-17 18:10:00,621 - Orchestrator - WARNING - File final_fixed.txt is empty. Attempt 1/5, retrying in 1s...
+2026-01-17 18:10:01,625 - Orchestrator - WARNING - File final_fixed.txt is empty. Attempt 2/5, retrying in 1s...
+2026-01-17 18:10:02,635 - Orchestrator - WARNING - File final_fixed.txt is empty. Attempt 3/5, retrying in 1s...
+2026-01-17 18:10:03,638 - Orchestrator - WARNING - File final_fixed.txt is empty. Attempt 4/5, retrying in 1s...
+2026-01-17 18:10:04,641 - Orchestrator - WARNING - File final_fixed.txt is empty. Attempt 5/5, retrying in 1s...
+2026-01-17 18:10:05,644 - Orchestrator - ERROR - File final_fixed.txt still empty after retries. Skipping command detection.
+2026-01-17 18:12:00,823 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:12:00,824 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:12:00,825 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:12:00,826 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:12:00,829 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:12:03,362 - Orchestrator - INFO - Event in Inbox: bot_test.txt
+2026-01-17 18:12:05,371 - Orchestrator - INFO - Ingesting from Inbox. Full path: E:\obsidian\AI_Employee_Vault\Inbox\bot_test.txt
+2026-01-17 18:12:05,375 - Orchestrator - INFO - File bot_test.txt current size: 103 bytes
+2026-01-17 18:12:05,378 - Orchestrator - INFO - Detected email command: to=saeedsheik577@gmail.com, body=Hello! This is a test from the AI Employee running...
+2026-01-17 18:12:05,389 - Orchestrator - INFO - Sending email to saeedsheik577@gmail.com...
+2026-01-17 18:12:05,417 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-01-17 18:12:06,471 - GmailService - INFO - Sent message to saeedsheik577@gmail.com. Message Id: 19bcc1594e7fa4eb
+2026-01-17 18:12:06,473 - Orchestrator - INFO - Successfully sent email to saeedsheik577@gmail.com
+2026-01-17 18:12:06,498 - Orchestrator - INFO - Event in Done: bot_test.txt
+2026-01-17 18:12:08,503 - Orchestrator - INFO - Task Verified Complete: bot_test.txt
+2026-01-17 18:13:20,582 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:13:20,583 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:13:20,583 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:13:20,584 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:13:20,588 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:13:50,220 - Orchestrator - INFO - Event in Inbox: mail.txt
+2026-01-17 18:13:52,240 - Orchestrator - INFO - Ingesting from Inbox. Full path: E:\obsidian\AI_Employee_Vault\Inbox\mail.txt
+2026-01-17 18:13:52,242 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:13:52,242 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 1/5, retrying in 1s...
+2026-01-17 18:13:53,244 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:13:53,244 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 2/5, retrying in 1s...
+2026-01-17 18:13:54,246 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:13:54,249 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 3/5, retrying in 1s...
+2026-01-17 18:13:55,251 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:13:55,253 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 4/5, retrying in 1s...
+2026-01-17 18:13:56,256 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:13:56,257 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 5/5, retrying in 1s...
+2026-01-17 18:13:57,259 - Orchestrator - ERROR - File mail.txt still empty after retries. Skipping command detection.
+2026-01-17 18:14:42,317 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:14:42,319 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:14:42,320 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:14:42,321 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:14:42,327 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:16:33,217 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:16:33,218 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:16:33,219 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:16:33,219 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:16:33,223 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:17:36,139 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:17:36,140 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:17:36,141 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:17:36,143 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:17:36,146 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:17:44,064 - Orchestrator - INFO - Event in Inbox: mail.txt
+2026-01-17 18:17:46,065 - Orchestrator - INFO - Ingesting from Inbox. Full path: E:\obsidian\AI_Employee_Vault\Inbox\mail.txt
+2026-01-17 18:17:46,067 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:17:46,071 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 1/5, retrying in 1s...
+2026-01-17 18:17:47,075 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:17:47,077 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 2/5, retrying in 1s...
+2026-01-17 18:17:48,079 - Orchestrator - INFO - File mail.txt current size: 2 bytes
+2026-01-17 18:17:48,081 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 3/5, retrying in 1s...
+2026-01-17 18:17:49,083 - Orchestrator - INFO - File mail.txt current size: 2 bytes
+2026-01-17 18:17:49,085 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 4/5, retrying in 1s...
+2026-01-17 18:17:50,087 - Orchestrator - INFO - File mail.txt current size: 2 bytes
+2026-01-17 18:17:50,089 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 5/5, retrying in 1s...
+2026-01-17 18:17:51,091 - Orchestrator - ERROR - File mail.txt still empty after retries. Skipping command detection.
+2026-01-17 18:18:31,870 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:18:31,871 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:18:31,872 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:18:31,872 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:18:31,875 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:18:41,380 - Orchestrator - INFO - Event in Inbox: mail.txt
+2026-01-17 18:18:43,381 - Orchestrator - INFO - Ingesting from Inbox. Full path: E:\obsidian\AI_Employee_Vault\Inbox\mail.txt
+2026-01-17 18:18:43,383 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:18:43,384 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 1/5, retrying in 1s...
+2026-01-17 18:18:44,387 - Orchestrator - INFO - File mail.txt current size: 44 bytes
+2026-01-17 18:18:44,390 - Orchestrator - INFO - Detected email command: to=qiratsaeed43@gmail.com, body="hi"...
+2026-01-17 18:18:44,392 - Orchestrator - INFO - Sending email to qiratsaeed43@gmail.com...
+2026-01-17 18:18:44,410 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-01-17 18:18:46,310 - GmailService - INFO - Sent message to qiratsaeed43@gmail.com. Message Id: 19bcc1baea2371ad
+2026-01-17 18:18:46,311 - Orchestrator - INFO - Successfully sent email to qiratsaeed43@gmail.com
+2026-01-17 18:18:46,364 - Orchestrator - INFO - Event in Done: mail.txt
+2026-01-17 18:18:48,366 - Orchestrator - INFO - Task Verified Complete: mail.txt
+2026-01-17 18:20:12,458 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:20:12,460 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:20:12,461 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:20:12,462 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:20:12,467 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:20:19,957 - Orchestrator - INFO - Event in Inbox: mail.txt
+2026-01-17 18:20:21,958 - Orchestrator - INFO - Ingesting from Inbox. Full path: E:\obsidian\AI_Employee_Vault\Inbox\mail.txt
+2026-01-17 18:20:21,961 - Orchestrator - INFO - File mail.txt current size: 0 bytes
+2026-01-17 18:20:21,962 - Orchestrator - WARNING - File mail.txt is empty or unreadable. Attempt 1/5, retrying in 1s...
+2026-01-17 18:20:22,964 - Orchestrator - INFO - File mail.txt current size: 43 bytes
+2026-01-17 18:20:22,967 - Orchestrator - INFO - Detected email command: to=saeedqirat43@gmail.com, body="hi"...
+2026-01-17 18:20:22,968 - Orchestrator - INFO - Sending email to saeedqirat43@gmail.com...
+2026-01-17 18:20:22,984 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-01-17 18:20:23,854 - GmailService - INFO - Sent message to saeedqirat43@gmail.com. Message Id: 19bcc1d2a4c5041a
+2026-01-17 18:20:23,855 - Orchestrator - INFO - Successfully sent email to saeedqirat43@gmail.com
+2026-01-17 18:21:41,550 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:21:41,567 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:21:41,584 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:21:41,586 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:21:41,638 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:23:21,495 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Inbox
+2026-01-17 18:23:21,497 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Approved
+2026-01-17 18:23:21,498 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Rejected
+2026-01-17 18:23:21,498 - Orchestrator - INFO - Monitoring folder: E:\obsidian\AI_Employee_Vault\Done
+2026-01-17 18:23:21,501 - Orchestrator - INFO - Orchestrator started. Press Ctrl+C to stop.
+2026-01-17 18:26:43,296 - Orchestrator - INFO - Event in Inbox: CHAT_20260117_182643.txt
+2026-01-17 18:26:45,301 - Orchestrator - INFO - Ingesting from Inbox. Full path: E:\obsidian\AI_Employee_Vault\Inbox\CHAT_20260117_182643.txt
+2026-01-17 18:26:45,303 - Orchestrator - INFO - File CHAT_20260117_182643.txt current size: 70 bytes
+2026-01-17 18:26:45,306 - Orchestrator - INFO - Detected email command: to=saeedsheik577@gmail.com, body=Debugging the empty file issue....
+2026-01-17 18:26:45,307 - Orchestrator - INFO - Sending email to saeedsheik577@gmail.com...
+2026-01-17 18:26:45,430 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-01-17 18:26:46,596 - GmailService - INFO - Sent message to saeedsheik577@gmail.com. Message Id: 19bcc2302ad43432
+2026-01-17 18:26:46,599 - Orchestrator - INFO - Successfully sent email to saeedsheik577@gmail.com
+2026-01-17 18:26:46,609 - Orchestrator - INFO - Event in Done: CHAT_20260117_182643.txt
+2026-01-17 18:26:48,623 - Orchestrator - INFO - Task Verified Complete: CHAT_20260117_182643.txt
+2026-01-17 19:00:54,445 - Orchestrator - INFO - Event in Done: EMAIL_19bcc39d7b99f069.md
+2026-01-17 19:00:56,469 - Orchestrator - INFO - Task Verified Complete: EMAIL_19bcc39d7b99f069.md
